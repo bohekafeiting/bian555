@@ -1,4 +1,6 @@
 // JavaScript Document
+
+a pengyouzaijian
 function double_to_one(array)
 {
   var i=0,j;
