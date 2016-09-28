@@ -1,5 +1,6 @@
 
 function thousands_separators(num) {
+  hello,hello
   num+='';
   var y=num.indexOf('.'); 
   m=Math.floor(num);
